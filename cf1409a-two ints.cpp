@@ -1,4 +1,4 @@
-//publisher tailwind
+//publisher tailwind, runtime 124ms, memory 0Kb
 
 #include <iostream>
 using namespace std;
