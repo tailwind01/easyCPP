@@ -7,8 +7,7 @@ int main()
 {
    int numcases;
    cin >> numcases;
-   int maxnum = 100001;
-	vector <unsigned long long int> allnums={0,1,1};
+   int maxnum = 100001; vector <unsigned long long int> allnums={0,1,1};
     
     for(int i=3; i<maxnum;i++){
         if(i%2==0){
